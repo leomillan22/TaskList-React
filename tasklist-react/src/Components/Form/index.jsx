@@ -4,7 +4,7 @@ import './form.css'
 
 const Form = () => {
     return (
-        <section>
+        <section className='form'>
             <form >
                 <Input />
                 <Button />
