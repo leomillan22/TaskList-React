@@ -10,10 +10,12 @@
     
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.6);
     width: 381px;
-    border: none;
     font-size: 14px;
     padding: 14px;
     box-sizing: border-box;
+    border-color: #9E78CF;
+    border-radius: 10px;
+    background-color: #231C2E;
 }
 button {
     border-radius: 8px;
@@ -22,7 +24,7 @@ button {
     font-size: 1em;
     font-weight: 500;
     font-family: inherit;
-    background-color: #1a1a1a;
+    background-color: #9E78CF;
     cursor: pointer;
     transition: border-color 0.25s;
   }

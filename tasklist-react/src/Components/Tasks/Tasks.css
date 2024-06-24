@@ -1,0 +1,17 @@
+.Tasks {
+    background-color: #15101C;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 15px;
+    border-radius: 15px;
+    margin: 15px 0;
+}
+
+.Tasks h1{
+    font-size: 15px;
+}
+
+.Tasks button{
+
+}
