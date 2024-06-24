@@ -4,8 +4,8 @@ import './form.css'
 
 const Form = () => {
     return (
-        <section className='form'>
-            <form >
+        <section>
+            <form className='form'>
                 <Input />
                 <Button />
             </form>

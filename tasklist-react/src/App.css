@@ -3,5 +3,9 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: #3a3a3a;
+}
+
+body{
   background-color: #1e1e1e;
 }
