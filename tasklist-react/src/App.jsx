@@ -3,7 +3,9 @@ import Form from './Components/Form'
 import Tasks from './Components/Tasks'
 
 function App() {
- 
+ const newTaskAdd = () =>{
+  
+ }
   return (
     <>
       <Form />
