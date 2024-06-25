@@ -16,7 +16,7 @@ const Form = (props) => {
     return (
         <section>
             <form className='form' onSubmit={newTask}>
-                <Input valor={taskName} />
+                <Input valor={taskName} aoAlterado={valor => setTaskName(valor)}/>
                 <Button />
             </form>
         </section>

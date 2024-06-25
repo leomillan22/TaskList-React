@@ -1,9 +1,9 @@
 import './Tasks.css'
 
-const Tasks = () => {
+const Tasks = ({nome}) => {
     return(
         <section className='Tasks'>
-            <h1>props.nome</h1>
+            <h1>{nome}</h1>
             <div>
                 <button>C</button>
                 <button>D</button>
